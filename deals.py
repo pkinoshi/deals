@@ -165,30 +165,33 @@ if selected_name != "Select a name":
 else:
     st.warning("Please select a valid name to continue.")
         
+st.write("")
+st.write("")
+st.write("The end of the streamlit demonstration..........for now.")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
