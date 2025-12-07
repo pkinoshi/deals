@@ -1,2 +1,2 @@
 # deals
-### Sales Performane using probabilistic analysis
+### Sales Performane Using Probabilistic Analysis
